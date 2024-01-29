@@ -1,7 +1,7 @@
 # Twitter-Pilot
 
 ## Overview
-This basic Twitter bot utilizes Tweepy to automate tweet postings. It securely handles credentials using environment variables.
+This basic Twitter bot utilizes Tweepy to automate tweet postings. It securely handles credentials using environment variables. Allows user to input a tweet in the command prompt and will tweet on my X profile. 
 
 ## Requirements
 - Python 3
