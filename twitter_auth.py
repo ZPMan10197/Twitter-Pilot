@@ -24,7 +24,7 @@ client = tweepy.Client(
 
 # Functional Post
 
-tweet = "API Function Call Test. Alhamdulillah!"
+tweet = input("What do you want to tweet? Input Here: ")
 client.create_tweet(text=tweet)
 print("Tweet Complete!")
 
