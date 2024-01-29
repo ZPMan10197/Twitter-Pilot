@@ -22,5 +22,7 @@ Run `twitter_auth.py` to post a tweet.
 
 ## Contributing
 Fork and pull request to contribute.
+
+## Authors
 Created by Zeshawn
 Github @ZPMan10197 
